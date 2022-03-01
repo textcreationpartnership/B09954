@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference betwixt a modern atheist, and his friend. By the methodizer of the Second spira.</title>
+            <author>Sault, Richard, d. 1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09954</idno>
+            <idno type="OCLC"> 10767969</idno>
+            <idno type="STC">Wing S732</idno>
+            <idno type="STC">ESTC R28854</idno>
+            <idno type="EEBO-CITATION">10767969</idno>
+            <idno type="OCLC">ocm 10767969</idno>
+            <idno type="VID">192324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192324)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2915:11b, 1410:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference betwixt a modern atheist, and his friend. By the methodizer of the Second spira.</title>
+                  <author>Sault, Richard, d. 1702.</author>
+               </titleStmt>
+               <extent>[12], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Sault by Wing.</note>
+                  <note>"Imprimatur, Char. Heron. March the 14th. 1692/3"--T.p. verso.</note>
+                  <note>Reproductions of originals in the Union Theological Seminary Library, New York (1410:20) and the University of Totonto Library (2915:11b).</note>
+                  <note>Item at reel 2915:11b with: The second spira: being a fearful example of an atheist, who had apostatized from the Christian religion, and died in despair at Westminster, Decemb. 8. 1692 ... / By J.S. ... The fifth ed. London, : Printed for John Dunton ..., 1693.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apologetics --  Early works to 1800.</term>
+               <term>Apologetics --  History --  17th century.</term>
+               <term>Faith and reason --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192324:1" rendition="simple:additions"/>
+            <pb facs="tcp:192324:1"/>
+            <pb facs="tcp:192324:2"/>
+            <pb facs="tcp:192324:2" rendition="simple:additions"/>
+            <p>The TREE KNOWN By its FRUITS.</p>
+            <p>OR A Relation of the Sufferings of <hi>Oliver Sanſom</hi> of <hi>Boxford,</hi> in the County of <hi>Barkes,</hi> eagerly inflicted upon him through the means of, and by <hi>James Anderton</hi> Prieſt of <hi>Boxford:</hi> WHEREBY It may appear to all People in the Pariſh of <hi>Box<g ref="char:EOLhyphen"/>ford,</hi> and elſewhere, where this ſhall come, who may with moderation peruſe it; WHETHER <hi>James Anderton</hi> do indeed walk in the Way of the Miniſters of Chriſt, or in the very exact Footſteps of the falſe Prophets and Decei<g ref="char:EOLhyphen"/>vers, for hereby is he manifeſt, if it be lawfull to try him, and judge according to the Rule of our Saviour Jeſus Chriſt, who hath ſaid unto us, <hi>By their Fruits ye ſhall Know them,</hi> Mat. 7.15, 16, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <p>Thus ſaith the Lord concerning the Prophets that make my People err, that Bite with their Teeth and cry, Peace: and he that putteth not into their Mouthes, they even prepare War againſt him, <hi>&amp;c.</hi>
+               </p>
+               <bibl>
+                  <hi>Micah 3.5.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The Nations ſhall ruſh like the ruſhing of many Waters: but God ſhall rebuke them, and they ſhall flee far off, and ſhall be chaſed as the Chaff of the Mountains before the Wind, and like a rolling thing before the Whirlwind. And behold at Evening tide Trouble, and before the Morn<g ref="char:EOLhyphen"/>ing he is not: This is the Portion of them that <hi>Spoil</hi> us, and the Lot of them that <hi>Rob</hi> us,</p>
+               <bibl>
+                  <hi>Iſa. 17.13, 14.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year 1667.</p>
+            <pb facs="tcp:192324:3"/>
+            <pb facs="tcp:192324:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192324:4" rendition="simple:additions"/>
+            <pb facs="tcp:192324:4"/>
+            <head>T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>TREE KNOWN</hi> By its FRUITS.</head>
+            <p>ABout the beginning of the 4th Moneth (called <hi>June</hi>) 1665 one <hi>William James</hi> of <hi>Denford,</hi> called a Juſtice of Peace, was at <hi>Boxford,</hi> in the Pariſh where I live, and <hi>James An<g ref="char:EOLhyphen"/>derton</hi> the Prieſt of our Pariſh complained to him againſt me: whereupon <hi>William James</hi> ſent for <hi>Simon Godard,</hi> called Church<g ref="char:EOLhyphen"/>warden, and asked him if he ſaw <hi>Oliver Sanſom</hi> at Church the three laſt Sundayes, who anſwered, he did not ſee him there; then <hi>Willi<g ref="char:EOLhyphen"/>am James</hi> cauſed the ſaid <hi>Simon Godard</hi> to ſwear that he did not ſee me there; and when he had ſo done, the ſaid <hi>William James,</hi> preſently ſent his Warrant to the Conſtable, which ſignified, that Informati<g ref="char:EOLhyphen"/>on and Complaint had been made, and given in upon Oath, That <hi>O. Sanſom</hi> did neglect to come to the Pariſh Church to hear Divine Service, <hi>&amp;c.</hi> for which cauſe he did require me to come before him, to ſhew ſome reaſon of this neglect, or elſe to pay three ſhillings to the uſe of the Poor, <hi>&amp;c.</hi> And when I appeared before him, I declared the cauſe and reaſon wherefore I could not come to their Worſhip, and yet, though I did not come there, I do in ſincerity of heart wor<g ref="char:EOLhyphen"/>ſhip the true God according as he hath perſwaded my heart and con<g ref="char:EOLhyphen"/>ſcience; (ſurely no man ought to be puniſhed for ſo doing) Alſo I told him, that I did believe that he did deſire the liberty of Conſcience himſelf, to worſhip God as he was perſwaded, and not to be compel<g ref="char:EOLhyphen"/>ed contrary to his own Conſcience, and therefore he ought to allow it unto me, and words to the ſame purpoſe; yet notwithſtanding he iſſued out another Warrant to diſtrain and make ſale of my goods, and on the 13th day of the 4th moneth 1665, thoſe Officers unto whom the Warrant was directed, went to the Prieſts houſe to conſult about this buſineſs, where they were quickly ſet in a way, and pre<g ref="char:EOLhyphen"/>ſently came to my houſe, <hi>Viz. James Basford</hi> Conſtable, <hi>Williams
+<pb facs="tcp:192324:5" rendition="simple:additions"/>
+                  <pb facs="tcp:192324:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:192324:6"/>Knight</hi> Tithing man, <hi>John Iremonger</hi> and <hi>Simon Godard</hi> Church-war<g ref="char:EOLhyphen"/>dens, (ſo called) and <hi>John Winch</hi> Overſeer of the Poor, all theſe, with ſome of the Prieſts children came to my houſe, and brought the Prieſts Scales, and weighed out twelve Tods of my Hay, and the Prieſt bought my Hay of them for three pence a Tod, and ſent his man and fetched it away; yet this is to be noted, <hi>viz.</hi> This unjuſt Prieſt who bought my Hay (which was wrongfully taken away from me) at three pence a Tod, yet he rated the Tythe of the ſame Hay at ſix pence a Tod, and ſued me for it, and recovered treble damage, and made a prey of my goods, as ſhall appear in its place.</p>
+            <p>Shortly after the Prieſt meeting me in the Street, began to threaten me what he would do to me, if I would not pay him Tythes, he would throw me into Priſon; but, ſaid he, if I had been civilly dealt withal, and you had paid me my Tyches, I would not have been uncivil to you, and words to this effect; then I asked him if he were the man that had complained againſt me to <hi>William James;</hi> he ſaid, he had complained againſt me, and would do ſo again; and further ſaid, that for every Sunday I henceforth did neglect to come to Church, thou ſhalt be ſure (ſaid he) to pay twelve pence, as thy Hat is on thy head.</p>
+            <p>And on the 25th day of the 4th Moneth 1665. I was Excommuni<g ref="char:EOLhyphen"/>cated for not paying to the Steeple-houſe Tax, as it was reported.</p>
+            <p>And on the 25th day of the 5th Moneth, called <hi>July,</hi> 65. the aforeſaid <hi>William James</hi> ſent another Warrant to require my ap<g ref="char:EOLhyphen"/>pearance before him; but I being at that time at <hi>Reading</hi> to viſit my ſuffering Friends in Priſon, before I came home again, the time that was prefixed me by the Warrant was paſt, ſo that I did not go upon that Summons: But ſhortly after the ſaid <hi>William James</hi> ſent ano<g ref="char:EOLhyphen"/>ther very ſtrict Warrant, being back'd on by the Prieſt; he was very eager againſt me, as if I had committed Felloay; a Copy of which Warrant I have here ſet down.</p>
+            <div type="part">
+               <head>
+                  <hi>Barks ſs.</hi> To the Conſtable and Tything men of <hi>Boxford,</hi> or to either of them.</head>
+               <p>WHereas Information and Complaint hath been made, and given in unto me upon Oath, that <hi>Oliver Sanſom</hi> reſident in your Pariſh, did upon the 2d, the 9th, the 16th, and the 23th dayes of this preſent <hi>July,</hi> being Sundayes, neglect to come to your Pariſh Church to hear Divine Ser<g ref="char:EOLhyphen"/>vice, contrary to the Laws in that caſe made and provided. Theſe are
+<pb n="5" facs="tcp:192324:6"/>therefore in his Majeſties Name to charge and command you, and every of you, to require the ſaid <hi>Oliver Sanſom</hi> to be, and in caſe of his reſu<g ref="char:EOLhyphen"/>ſal to bring him before me, and others his Majeſties Juſtices of the Peace of this County, at our petty Seſſions to be holden at <hi>Newbery</hi> this next Thurſday, and in caſe he ſhall hide out of the way, ſo that you cannot give him notice perſonally of this Warrant before our ſaid petty Seſſions; that th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n as ſoon as you ſhall meet him, the ſaid <hi>Oliver Sanſom,</hi> within your Liberty, you attach him, and forthwith bring him before me, that if he can he may ſhew ſome reaſonable excuſe for this his neglect, and to be pro<g ref="char:EOLhyphen"/>vided to make due proof thereof, or elſe to pay <hi>4</hi> s. to the uſe of the Poor of your Pariſh, and to be further dealt withal, as to Law and Juſtice doth ap<g ref="char:EOLhyphen"/>pertain, hereof fail you not at your perils. Dated at <hi>Danford</hi> in the ſaid County, the 25th day of <hi>July, Anno Dom. 1665. W. James.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>Now the Conſtable having this Warrant, he told me the day of appearance was the day called Tueſday following, but therein he did miſtake, and by that means the Petty Seſſions was paſt before I had ſight of the Warrant, and though it was the Conſtables neglect that <hi>I</hi> appeared not at the punctual time mentioned in the Warrant; yet he fearing the diſpleaſure of <hi>William James,</hi> compelled me to go with him afterwards to his houſe at <hi>Danford,</hi> where much was ſpoken concerning Worſhip and compelling thereto; but what was or could be ſaid was in vain, ſeeing he was reſolutely bent to go forward with his Enterpriſe; and after two or three dayes ſent another Warrant to diſtrain my goods; and on the 16th day of the 6th Moneth, called <hi>Auguſt,</hi> 65. thoſe called Churchwardens, with the Tything men, came when no body was at home, and went into my Barn, and took away my Fan, and carried it to the Prieſts houſe, while <hi>I</hi> with my Fa<g ref="char:EOLhyphen"/>mily was in the field at Harveſt work; ſo that the Prieſt was the man to whom it muſt be carried, <hi>&amp;c.</hi>
+               </p>
+               <p>Then ſhortly after <hi>William James</hi> ſent another Warrant to require my appearance before him, to ſhew ſome reaſonable excuſe for not coming to their Worſhip; and I conſidering that my appearing be<g ref="char:EOLhyphen"/>fore him was to no other end, but to make his farther proceeding ſeem more legal, for what ever was ſaid, he reſolved to go on and bring his purpoſe to paſs; I therefore went to the Tything man, who had the Warrant, and told him I was not willing to appear perſonally, but wiſht him to carry my anſwer to him in writing, which accordingly he did, which was as followeth,</p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:192324:7"/>
+               <opener>
+                  <salute>William James,</salute>
+               </opener>
+               <p>VVHereas I have been accuſed to thee of a pretended neglect of coming to Church, <hi>&amp;c.</hi> and thereupon thou haſt ſent a War<g ref="char:EOLhyphen"/>rant to require me to come before thee, to ſhew ſome reaſonable ex<g ref="char:EOLhyphen"/>cuſe for this pretended neglect, <hi>&amp;c.</hi> Theſe are therefore to certifie thee, or any other that ſhall queſtion me on this account, that I have not only reaſon to plead for me in this matter, but I have the Law of God, and the Goſpel of Chriſt, and the Teſtimony of the Saints and Servants of God recorded in the holy Scriptures, and alſo the Wit<g ref="char:EOLhyphen"/>neſs of God in my own Conſcience to plead in my behalf; and ſeeing I have ſuch a Cloud of Witneſſes on my ſide, I have confidence to<g ref="char:EOLhyphen"/>wards God, and boldneſs to ſtand in the day of Judgment, which is begun at the houſe of God, and the Lord hath given me patience to endure what he ſhall permit unreaſonable men to do unto me, <hi>For all men have not Faith,</hi> 2 <hi>Theſſ.</hi> 3.2. And again, <hi>The Devil ſhall caſt ſome of you into Priſon,</hi> Rev. 2.10. <hi>Yea, and all that will live Godly in Chriſt Jeſus ſhall ſuffer perſecution,</hi> 2 Tim. 3.12. And ſeeing there is no mat<g ref="char:EOLhyphen"/>ter of Fact that I am accuſed with, ſo far as I underſtand, and I have been ſummoned to appear at the Biſhops Court upon this ſame ac<g ref="char:EOLhyphen"/>count, and there I am liable to anſwer, not that I do condemn any juſt Authority; but if no matter of Fact be proved, nor ſo much as charg<g ref="char:EOLhyphen"/>ed againſt me, I ſuppoſe I am not liable to a tryal at two Courts; but if any matter of Fact can be charged againſt me, command my Accu<g ref="char:EOLhyphen"/>ſers to be preſent, and I will appear at any time, if the Lord permit.</p>
+               <closer>
+                  <signed>Oliver Sanſom.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>When <hi>William James</hi> had received this Letter, he without any more ado iſſued out another Warrant to diſtrain my goods, unleſs I would pay four ſhillings for not coming to their Worſhip; and on the 30th day of the 8th Moneth, called <hi>October,</hi> 65. <hi>Simon Godard,</hi> one of thoſe called Churchwardens, took away a good Harrow, worth near ſeven ſhillings.</p>
+               <p>And toward the latter end of 10th the Moneth, called <hi>December,</hi> 65. <hi>William James</hi> iſſued out another Warrant, after his uſual manner, and on the 29th day of the ſame Moneth, the ſaid <hi>Simon Godard,</hi> took away two pieces of Pewter, becauſe I came not to their Wor<g ref="char:EOLhyphen"/>ſhip: Thus they took away my Goods three times for not going to their Worſhip, after I was Excommunicated therefrom; and the ſaid
+<pb n="7" facs="tcp:192324:7"/>
+                  <hi>William James</hi> did threaten the Officers for not ſelling the Goods, who complained they could not ſell them to the worth, he replyed, that if they were worth twenty ſhillings, and they ſold them for five ſhil<g ref="char:EOLhyphen"/>lings, he would bear them out in it.</p>
+               <p>And on the 28th day of the ſame 10th Moneth, 65. a Friend came to my houſe, who had a Teſtimony to bear for the Lord, and ſeveral Friends came there to wait upon the Lord, and ſome of the Town, my Neighbours, were there, who a long time had a deſire to bear one ſpeak of the things of the Lord, and I did let them know, and there came pretty many; and when the Friend had declared a pretty while, the Prieſt being informed of it, being at home with his Family, having ſome others at his houſe playing at Cards; but when they heard of a Meeting at my houſe, they left their Card-playing, and the Prieſt ſent <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Tything man, who dwelt nigh him, to come away and break up the Meeting; but neither he nor the Conſtable were at home, for they were peaceably Aſſembled, with many others at my houſe, who not at all ſuſpected the Prieſt ſhould be hatching ſuch a wicked device: but the Prieſt having no Officer to aſſiſt him, without any more ado, came himſelf to my houſe, only the Card-players came to aſſiſt him; and he began to threaten the people that they ſhould go before the Juſtice, and ſome of the people being affraid becauſe the Prieſt threatned them, would have gone away; but one <hi>Francis Dayly,</hi> the Prieſts Journey-man, ſtood and kept the door, and told them, he muſt know what they were before they went forth; and the Prieſt inter<g ref="char:EOLhyphen"/>rupted the Friend that was Speaking and Declaring the Truth, and demanded his name and place of abode, and charged the Conſtable to ſee them forth-coming the next morning; and the Prieſt being then paſſing away, called forth the Conſtable, and commanded him to ſet men to keep the Friend that ſpake, and another that came with him, until the morning; and ſome of the people hearing it, came in again, and cauſed the two ſtrangers to go forth into the Orchard until the Conſtable was gone, and the Conſtable coming in againſt his will to apprehend them, and finding them not within, paſſed away. But the Prieſt, to proſecute his work which he had enviouſly begun, ſent early the next morning the Pariſh Clark (<hi>Lodowick Yeamons,</hi> by name one likewiſe that had much withſtood the Truth) to <hi>Wiliam James</hi> for a Warrant, who preſently anſwered the Prieſts end, or deſire, granted and ſent it to the Conſtable of the Hundred, requiring him to bring the
+<pb n="8" facs="tcp:192324:8"/>Conſtable and Tything men of <hi>Boxford,</hi> and as many more as the Prieſts Meſſenger, the ſaid <hi>Lodowick Yeamons</hi> could name, that he ſaw at the Meeting, to appear before him and the others, called Juſtices of the Peace, at the Sign of the <hi>Three Swans</hi> at <hi>Hungerford,</hi> on the 30th day of the 10th Moneth 65. I being in the Warrant appeared with the reſt, according to the contents thereof, and my Servant man alſo was intended by the Warrant, but they miſtook his name, therefore he went not.</p>
+               <p>When we were come to <hi>Hungerford,</hi> and had ſtaid there ſome time, there came three of thoſe called Juſtices; <hi>viz. John Elwes, William Dormer,</hi> and <hi>William James,</hi> and when they had called the Conſtable and Tything men, and others that were amongſt them, where was one poor man which they promiſed to ſet free, if he would upon his Oath give them the names of the reſt of his Neighbours that he ſaw at the Meeting, which the ſaid poor man for fear of Suffering preſently did; then they called me, and preſſed me much to diſcover the names of the two Friends that kept the Meeting at my houſe, urging, that thereby I ſhould free my ſelf from ſuſpition of entertaining Jeſuits and dangerous perſons, tending to the diſturbance of the Peace of the Kingdom; I told them they were known to be honeſt men, and were never ſuſpected to be diſturbers of the Peace, nor of doing in<g ref="char:EOLhyphen"/>jury or harm to any man; they anſwered, my words would not ſatiſ<g ref="char:EOLhyphen"/>fie them, nor clear my ſelf, unleſs I would diſcover them; adding further, that if they were honeſt men what need I fear to tell their names; I anſwered, <hi>I</hi> was unwilling to tell their names, becauſe <hi>I</hi> would not occaſion their Sufferings; but if they would promiſe that they ſhould not trouble nor moleſt them, <hi>I</hi> would preſently tell who they were; <hi>William Dormor</hi> promiſed, that if they were honeſt men, they ſhould not be medled with; ſo <hi>I</hi> told their names, and places of abode, and after ſome more words by way of Examination, they pro<g ref="char:EOLhyphen"/>ceeded to the impoſing of Fines, and fined <hi>James Basford</hi> 10 s. which they compelled him to pay down preſently; and the reſt they fined 12 d. a piece; and becauſe <hi>I</hi> could not for Conſcience ſake ſtoop under them, as they did, to promiſe not to go to any more Meettings, and to confeſs my ſelf guilty, as an Offender in that which before the Lord, and all juſt men, <hi>I</hi> was innocent, they fined me 5 l. or elſe to endure three Moneths impriſonment, upon the firſt offence, ſo called; and not paying their demand. <hi>I</hi> was ſent Priſoner to <hi>Reading</hi> Goal for three moneths.</p>
+               <pb n="9" facs="tcp:192324:8"/>
+               <p>But yet this ſatisfied not the Prieſt, for within four dayes after I was committed, <hi>VVilliam James</hi> ſent another Warrant for my man, for being at the forementioned Meeting (who had been at home but a little time ſince he was a Priſoner at <hi>Reading,</hi> being committed for two moneths to the houſe of Correction there, for being at Meeting) and he accordingly appeared, and <hi>VVilliam James</hi> committed him (<hi>VVilliam Coules</hi> by name) to the houſe of Correction at <hi>Abingdon</hi> for four moneths, for only being at home at his Maſters houſe.</p>
+               <p>Now though I never came to hear this Prieſt, nor never had one penny worth of Service from him, yet he hath by force and violence gotten wages, ruling by force and cruelty over the Conſciences of men, like thoſe whom the Prophet was ſent of the Lord to cry wo againſt, read <hi>Ezek.</hi> 34. his proceedings have been farther on this wiſe.</p>
+               <p>Firſt <hi>I</hi> was ſummoned by a Subpenae to appear at the Court of Ex<g ref="char:EOLhyphen"/>chequer at <hi>VVeſtminſter,</hi> and when <hi>I</hi> appeared according to the ex<g ref="char:EOLhyphen"/>preſs words of the Writ, the 12th and 13th dayes of the nineth moneth, 66. there was none as <hi>I</hi> knew to proſecute, or lay any thing to my charge; and then he would not proceed any farther in the Ex<g ref="char:EOLhyphen"/>chequer, but procured a Juſticious Warrant, ſo called, from the Sheriff of the County, and ſent two Bailiffs, and took away my Horſes, and kept them in the Bailiffs cuſtody at <hi>Newbury,</hi> and put my Cows in the Pound, and lockt them in, and both Prieſt and Bailiff was ſo hard-hearted, that they took no order to give them any meat; ſo that if I had not carried Fodder to them, in all probability the Cattel might have ſuffered much, and have been loſt: and then one of my Relati<g ref="char:EOLhyphen"/>ons went to the under-Sheriff, and paſt his word that they ſhould have the Goods when they demanded them; and thereupon, after they had kept them ſeven or eight dayes, they were returned to me again.</p>
+               <p>And on the 8th day of the 2d Moneth, 1667. the Sheriff kept his Court at <hi>Abingdon,</hi> whether this Prieſt repaired, and imployed a Lawyer, who drew forth a Declaration againſt me, wherein were many untruths; and ſome of my Relations cauſed an Attorney to make an appearance, and the Attorney ſaid, that the Prieſt could not have a trial for Tythes in that Court, or words to that purpoſe; and I heard no more of this Law in four or five moneths, ſo that I was ready to think the Prieſt had let fall this Suit alſo: But on the 26th day of the 6th Moneth, 1667. he procured a trial in the ſame Court, which was ſo ſubtilly and privately proſecuted, that I had no certain knowledge
+<pb n="10" facs="tcp:192324:9"/>of it, before the Bailiff came with an Execution, which was early the next morning after the Trial; and the Bailiff <hi>Richard Smith</hi> by name, ſuddenly approached, and ſearch'd my houſe, and took away Three pounds of Money, and drove away all my Cows and ſheep, a<g ref="char:EOLhyphen"/>mounting in all to the value of Thirty pounds, or thereabouts, and the ſingle value the Prieſt ſued for was Six pounds Eight ſhillings.</p>
+               <p>The unreaſonableneſs of this Prieſt doth ſurpaſs moſt in this Nati<g ref="char:EOLhyphen"/>on; for there was one, who out of natural affection to me, ſent to him, without either conſent or knowledge of mine, by ſeveral of his Neigh<g ref="char:EOLhyphen"/>bours, men dwelling in the Pariſh of <hi>Boxford,</hi> that if he would take two indifferent men, and let them value what the Tythes of my Living was worth, he would be engaged to pay it, but the Prieſt would not, accept of it, but ſaid, he would rout me out of the Town, or words to that effect; and alſo his envy and malice was ſo great, that he did even ſhew murther in his face; for on a certain time, calling me Here<g ref="char:EOLhyphen"/>tick, he ſaid to me, that if the King would but grant a Law, he would be the firſt man that would ſet a Faggot to my Tayl; and at another time he ſaid, that if the King would grant a Law, he would be the firſt that would have me burnt; and again at another time he ſaid the like words; whereby it is manifeſt what lodges in this mans heart, and what Papiſtical and Jeſuitical cruelty he would act, had he a little more power, for it was they who exerciſed their cruelty in that way toward conſcientious People, who could not pay them Tythes, and uphold them, as Hiſtory do teſtifie, in ſetting Faggots to their Tayls and Burn<g ref="char:EOLhyphen"/>ing them; and this it ſeems he would do, nay, he ſays, the firſt that would do it, if the King would grant a Law, which God forbid he ever ſhould, for the tender mercies of <hi>James Anderton,</hi> and ſuch as he is, would be very great Cruelty, as he already doth declare, which may be caution enough, any wiſe man would think, to the People of <hi>Box<g ref="char:EOLhyphen"/>ford,</hi> yea, and all People in <hi>England,</hi> to beware of ſuch men, and to mark, and take notice of them, what ever they may pretend, and how ſmooth and fair ſoever their words at ſome times may be, till their ends be accompliſhed; and I ſay the Lord give men underſtanding to conſider.</p>
+               <p>Well, but farther alſo his envy hath been manifeſt in this particular; for after I was Excommunicated, as is before mentioned, he ſaid, that none muſt have any thing to do with me, either to buy or ſell, or the like, to which intent the Miller was forbidden to grinde my Corn; yea, the Prieſt threatned one man that did work for me, that if he did not
+<pb n="11" facs="tcp:192324:9"/>leave off working for me, he would preſent him into <hi>Oxford</hi> Court, and the ſeverity of the Law ſhould be proſecuted againſt him, and bid him work for me if he did dare; and the man, for fear of the Prieſt, left off, and did not dare to work for me any longer at that time; but, about a year after, the ſame man, almoſt forgetting the Prieſts threat<g ref="char:EOLhyphen"/>nings, did work for me again; but it is evident the Prieſt had not for<g ref="char:EOLhyphen"/>got to deal wickedly by him, for he was preſented, and the Parater came to ſummon him to appear; and the man being in doubt what ſhould be the iſſue, and fearing the envy of the Prieſt, agreed with the Parater, and gave him money to prevent further trouble, <hi>&amp;c.</hi>
+               </p>
+               <p>One thing more I ſhall mention, which is this: As I was lately dig<g ref="char:EOLhyphen"/>ging a Trench, or Gutter, under the eves of my houſe, next the Maſs<g ref="char:EOLhyphen"/>houſe yard, that the water might paſs away, for the Tower formerly fell down, and the rubbiſh thereof lay ſo high againſt the ſide of my houſe, that it did much hurt: but when the Prieſt ſaw me there at work, he came on, with open mouth, as if he would have devoured me, and violently took the Mattock from me, and threw down my Garden bounds, on the ſide next the Steeple-houſe yard, flat on the ground, and cauſed the Trench to be filled afterwards; and with the clamor that he made ſeveral of the Neighbours came, and the Prieſt asked me before them, whether I would own that Letter I lately ſent to him, I bid him produce it, and read it to them, for I would aſſuredly own it, but he would not produce it. The occaſion of my writing this Let<g ref="char:EOLhyphen"/>ter to him was this: after he had taken away my goods for Tythes, as is before recited, ſome of my Relations ſaw that my goods were like to be ſold under hand, they made an agreement with the Prieſt for to pay him twenty pound, and they to ſell the Goods, and (as they ſay) the reſidue they will keep for him till another time, that he makes war again; but I do here teſtifie, that I am ſo far from conſenting to this Agreement, or having any hand to bring about this concluſion, that to the utmoſt of my power I endeavoured to hinder and withſtand it, as the Lord, who knows, bears me witneſs; and when this Agreement was thus patch'd up, there was a general Releaſe under the Prieſts hand and ſeal ſent to me, which I returned back again to him with this Let<g ref="char:EOLhyphen"/>ter, a Copy whereof follows.</p>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:192324:10" rendition="simple:additions"/>
+               <opener>
+                  <salute>James Anderton,</salute>
+               </opener>
+               <p>I Have lately received a general Releaſe under thy Hand and Seal: I much marvel thou waſt ſo impudent, as firſt to Steal my Goods, and Rob my Houſe for Wages, though I never ſet thee at Work, and then deceitfully thou makes as if I had paid thee thy demands, and thereupon haſt acquitted me. But be it known unto thee, thou Hypo<g ref="char:EOLhyphen"/>crite, that I never conſented to pay thee any thing, becauſe I owed thee nothing, and thy Releaſe I return to thee back again, as a Teſti<g ref="char:EOLhyphen"/>mony againſt thy Deceit: But as for the Goods and Money that was by thee violently taken from me, I can look upon it to be no other then Theft and Robbery, which will aſſuredly be upon thy Account before the righteous God, before whom I have committed my cauſe, whoſe Truth and Servants thou haſt reproached, and whoſe Worſhip thou haſt diſdainfully oppoſed; for at <hi>Chievly</hi> the 10th day of the 7th moneth thou didſt prefer Card-playing before the true Worſhip of God; Oh, thou full of all ſubtilty, how thou perverts the right Way of God, thou ſhalt aſſuredly feel the vengeance of God, and his fiery indignation for theſe things, as thou haſt done them, and with the Murtherer, Swearer, and Lyer thou ſhalt be ſhut out, except thou ſpeedily repent: O Repent, Repent, if thou canſt find a place.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>The 24th day of the 8th Moneth,</hi> 1667.</date>
+                  </dateline>
+                  <signed>O. S.</signed>
+               </closer>
+               <postscript>
+                  <p>And now <hi>James Anderton</hi> conſider with thy ſelf what thou haſt brought to paſs by thy ſtriving in Cruelty againſt me theſe four years, thou haſt but made thy folly manifeſt; alas, what am I that thou ſhouldſt thus ſtrive againſt me, but it is the Living God that is on my ſide, and hath preſerved me hitherto, living Praiſes be to his Name for ever.</p>
+                  <q>
+                     <l>In the Truth of God, unto which all muſt how,</l>
+                     <l>At firſt I was not ſo ſtrong as I am now.</l>
+                     <l>Holy Praiſes be to my Rock and Strength for ever,</l>
+                     <l>For from his Love no Earthly thing can ſever.</l>
+                  </q>
+               </postscript>
+               <trailer>The End.</trailer>
+               <pb facs="tcp:192324:10"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
